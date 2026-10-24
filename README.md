@@ -1,167 +1,151 @@
 <div align="center">
 
-<img src="assets/virtual-camera-android-root-icon.png" alt="Virtual Camera Android Root app icon" width="116" height="116" />
+![Virtual Camera Android Root – Android virtual camera APK, live stream gallery videos](assets/virtual-camera-android-root-banner.jpg)
 
 # Virtual Camera Android Root
 
-### Live Stream Gallery Videos as a Virtual Camera on Rooted Android
+### The Android Virtual Camera APK That Turns Your Gallery Into a Live Streaming Studio
 
-**Turn your existing video library into a flexible camera source for compatible Android applications.**
+**Live stream prerecorded gallery videos as camera input. Keep your original video audio, take control of playback, and build a professional mobile streaming workflow—right on your rooted Android phone.**
 
-**Version 2.0.20** · **Three Android ABI builds** · **Root + LSPosed** · **Physical Android device focus**
+**Android 11+** · **API 30, 31, 33, 34, 35, 36, 37** · **LSPosed API 101+** · **3 ABI Downloads**
 
-[Explore Features](#key-features-of-virtual-camera-android-root) · [How It Works](#how-to-use-virtual-camera-android-root-on-rooted-android) · [Compatibility](#social-media-and-live-streaming-app-compatibility) · [Download](#download-virtual-camera-android-root-apk)
+[![Download Latest APK](https://img.shields.io/badge/DOWNLOAD-LATEST%20APK-21d9b7?style=for-the-badge&logo=android&logoColor=05191b)](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases) [![Visit Official Website](https://img.shields.io/badge/OPEN-OFFICIAL%20WEBSITE-137e8c?style=for-the-badge&logo=githubpages&logoColor=white)](https://hellowisnu12.github.io/Virtual-Camera-Android-Root/) [![Read Release Notes](https://img.shields.io/badge/GITHUB-RELEASES-23303d?style=for-the-badge&logo=github)](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases)
+
+**500+ Android apps tested by the developer** • **Real Android smartphones** • **Root & LSPosed**
 
 </div>
 
-![Virtual Camera Android Root — gallery video to virtual camera promotional hero](assets/virtual-camera-android-root-hero-banner.png)
+---
 
-> **Important:** This public GitHub repository is a **promotional showcase and APK release landing page**, not the complete production source code. Camera hooks, private audio synchronization logic, license/server systems, and other proprietary implementations are **not included**. Promotional visuals are concept illustrations, not proof of support for every app.
+## 🚀 Live Stream Prerecorded Videos From Your Android Gallery
 
-## What Is Virtual Camera Android Root?
+**Virtual Camera Android Root** is a feature-rich **Android virtual camera APK** built for users who want to **replace Android camera input with a video from the gallery**. Select an MP4 or another supported media file, enable your virtual camera configuration, and present the video as camera input in supported social media, live streaming, and video communication applications.
 
-**Virtual Camera Android Root** is an Android virtual camera utility designed for **live streaming prerecorded videos from the gallery instead of recording with the physical front or rear camera**. On compatible **rooted Android smartphones**, it aims to route a selected video file into camera interfaces used by supported live streaming, social media, and video communication applications.
+Stop pointing your camera at a second monitor: **make your Android video gallery your virtual camera source**. With original source-audio options, microphone controls, video looping, portrait and landscape support, and a target-app selector, your content stays ready for demonstrations, streaming, live shopping and presentations.
 
-If you've searched for **how to live stream a gallery video on Android**, **how to use an MP4 file as a phone camera**, or an **LSPosed virtual camera module for a rooted Android device**, Virtual Camera Android Root is built around exactly that workflow.
+**Developer testing covers more than 500 Android applications** across streaming, social networks, video calls, communication and creator workflows. App behavior depends on its actual camera and audio interfaces; the app does not grant platform live-streaming eligibility.
 
-Rather than pointing your device at another screen, use the video stored locally on your phone as the *intended* source. Control playback, explore routing of the original video's audio, manage portrait and landscape orientation, and select target apps from one specialized interface.
+### 🎯 Why creators choose Virtual Camera Android Root
 
-### Designed for Creators, Testers, and Power Users
+- **Live stream a video from your Android gallery** instead of using your front or rear camera.
+- **Use prerecorded MP4 video as virtual Android camera input** for repeatable presentations and live content.
+- **Route the original audio from your video** and control unwanted microphone capture.
+- **Loop gallery video playback** and manage shuffle and local playback settings.
+- **Optimize vertical and horizontal output** for different social-media layouts.
+- **Choose target apps** using LSPosed and advanced device controls.
 
-- **Content creators:** present prepared videos, product demonstrations, tutorials, and recorded material in compatible live-camera workflows.
-- **Developers and testers:** experiment with repeatable camera input when testing supported apps on rooted Android devices.
-- **Android enthusiasts:** customize camera routing with root and LSPosed instead of relying exclusively on physical sensor output.
+## ✨ Key Features: A Complete Virtual Camera Studio on Android
 
-## Key Features of Virtual Camera Android Root
+| Feature | What you get |
+|---|---|
+| **Gallery video as camera** | Choose video clips from Android storage and send supported video frames through a virtual camera pipeline. |
+| **Original soundtrack routing** | Stream with audio sourced from your selected video, including source audio replacement and microphone mute controls. |
+| **Continuous video loops** | Repeat prerecorded content for long sessions, with shuffle options and media playback controls. |
+| **Portrait / landscape video** | Control orientation and 9:16 / 16:9 aspect ratios to keep output framed appropriately. |
+| **Advanced Android camera control** | Control virtual camera status, target apps, audio replacement and device-side module behavior. |
+| **Root + LSPosed integration** | Dedicated PHONE edition for real rooted Android smartphones with LSPosed API 101+. |
+| **Target application selection** | Apply the virtual camera to selected Android applications rather than every app indiscriminately. |
+| **Free and Premium options** | Premium controls are license managed; updating the installed app does not reset the subscription expiration date. |
 
-| Feature | What it means |
-|:--|:--|
-| **Gallery video as camera input** | Select a compatible prerecorded video and use it as the intended video source for supported Android camera requests. |
-| **Virtual front/rear camera routing** | Root + LSPosed integration is designed to redirect supported camera flows toward your chosen video. |
-| **Original video audio** | Audio routing is designed around the soundtrack embedded in the source file, with audio/video synchronization a central goal. |
-| **Microphone management** | Intended controls for reducing or muting microphone input where routing is supported, so outside audio does not unintentionally mix with prerecorded sound. |
-| **Repeat / loop playback** | Playback looping is designed for reusing a selected video in longer sessions. Actual reliability depends on device, duration, and app. |
-| **Portrait and landscape** | Orientation handling targets both **9:16** and **16:9** media to reduce stretching and wrong rotation. |
-| **Target application selection** | Choose which compatible installed apps should use the virtual camera integration. |
-| **Rooted physical Android** | Built for smartphones with root/LSPosed, targeting **Android 11 and newer**, not primarily Android emulators. |
+## 📱 Real App Screenshots
 
-![Virtual Camera Android Root video routing concept: gallery video, LSPosed module, compatible app](assets/virtual-camera-android-root-how-it-works.png)
+These are screenshots of the Virtual Camera Android Root PHONE interface: Studio, Media, Controls, audio routing, and target-app/advanced settings.
 
-### Live Stream Video From Your Gallery Instead of a Camera
+<div align="center">
+  <img src="assets/virtual-camera-android-root-studio.webp" width="170" alt="Android virtual camera app Studio page" />
+  <img src="assets/virtual-camera-android-root-media.webp" width="170" alt="Choose an MP4 gallery video as virtual camera source" />
+  <img src="assets/virtual-camera-android-root-controls.webp" width="170" alt="Virtual camera loop video controls and source audio" />
+  <img src="assets/virtual-camera-android-root-audio.webp" width="170" alt="Audio from video microphone mute and rotate settings" />
+  <img src="assets/virtual-camera-android-root-advanced.webp" width="170" alt="Choose target apps and advanced camera options" />
+</div>
 
-Virtual Camera Android Root's core idea is direct: choose a locally stored video, set the playback options, and present it as a virtual camera feed **where the target Android application and device support that path**. This is useful for users searching for *gallery video to live camera Android*, *prerecorded video for live streaming*, or *replace Android front camera with MP4 video*.
+## 🌍 500+ App Testing Coverage: Streaming, Social Media and Video Calls
 
-### Original Soundtrack and Audio/Video Sync
+**One Android virtual camera, hundreds of potential workflows.** According to the developer's testing, the app has been exercised with **500+ Android applications**, including well-known platforms and creator tools. Representative ecosystems include:
 
-When a video includes sound, a virtual camera project must account for both video frames and audio capture. Virtual Camera Android Root is designed to source the soundtrack from the selected media file, rather than accidentally publishing surrounding microphone sound. Precise sync and mic isolation **must be verified on each supported target application**; they are not guaranteed across all Android apps.
+- **Live streaming:** TikTok LIVE, YouTube Live, Instagram Live, Facebook Live, Twitch, Kick, VK Live, BIGO LIVE, Shopee Live, Nimo TV, Rumble, Twitcast, YouNow, X Live, Tango Live, Likee, MICO, Poppo Live.
+- **Social and messaging:** WhatsApp, Telegram, Discord, Facebook, Instagram, TikTok, REDnote, LINE, WeChat, Vero.
+- **Video calls and meetings:** Zoom, Google Meet, Microsoft Teams, Webex, OmeTV, Azar, Chamet, LivU.
+- **Creator and e-commerce:** PRISM Live Studio, Streamlabs, Shopee Live, content demos, virtual presentations and live selling.
 
-![Virtual Camera Android Root original video audio and playback synchronization concept](assets/virtual-camera-android-root-audio-routing.png)
+### 🎬 Live stream on TikTok, Instagram, YouTube and beyond
 
-### Portrait, Landscape, and Aspect Ratio Controls
+Looking for **virtual camera Android for TikTok LIVE**, **live stream prerecorded video on Instagram**, **use an MP4 as camera input on YouTube Live**, or **Android virtual camera for Facebook Live**? Virtual Camera Android Root puts gallery-video selection, camera routing and playback controls in one place for supported app-camera workflows.
 
-Vertical social streaming and horizontal video playback have different resolution, rotation, and cropping requirements. Virtual Camera Android Root's design targets **9:16 portrait** and **16:9 landscape** workflows, with orientation controls intended to prevent stretched or elongated streams.
+> Independent application; not affiliated with or endorsed by the listed third-party platforms. Users must follow their streaming rules and any prerecorded-content disclosure requirements.
 
-![Virtual Camera Android Root portrait and landscape orientation concept](assets/virtual-camera-android-root-orientation.png)
+## ⚙️ Android & LSPosed Requirements
 
-## Social Media and Live Streaming App Compatibility
+| Component | Requirement |
+|---|---|
+| Device | **Physical Android smartphone with root** (PHONE edition) |
+| Android version | **Android 11 and newer** |
+| Android API levels | **30, 31, 33, 34, 35, 36, 37** |
+| LSPosed | **Minimum LSPosed API 101** |
+| APK architectures | **arm64-v8a**, **armeabi-v7a**, **x86_64** |
+| Source video | Compatible locally stored gallery video |
 
-Virtual Camera Android Root aims to integrate with common camera-based workflows on social media and communication platforms. The **target ecosystem for development and testing** includes **TikTok / TikTok LIVE, Instagram / Instagram Live, YouTube / YouTube Live, Facebook / Facebook Live, Twitch, Kick, WhatsApp, Telegram, VK Live, BIGO LIVE, Shopee Live, Likee, Tango Live, MICO, Poppo Live, and other Android apps**.
+## ⬇️ Download Virtual Camera Android Root APK
 
-**These names indicate development targets, not certified compatibility.** Each app can use different Camera1, Camera2, CameraX, WebRTC, audio capture, security, and server-side streaming paths. Some app features may reject a virtual feed or require broadcaster eligibility. Virtual Camera Android Root does not grant streaming permissions or bypass platform policies.
+Choose the APK that matches your Android device's CPU architecture. Download directly from the **official GitHub Releases page**—never from an unknown repackaging website.
 
-## How to Use Virtual Camera Android Root on Rooted Android
+| Build | Best for | Download |
+|---|---|---|
+| **arm64-v8a** | Modern 64-bit Android phones (recommended) | **[⬇️ Choose ARM64 APK](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases)** |
+| **armeabi-v7a** | Compatible 32-bit ARM devices | **[⬇️ Choose ARM32 APK](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases)** |
+| **x86_64** | Compatible Android x86_64 devices | **[⬇️ Choose x86_64 APK](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases)** |
 
-1. **Prepare a compatible physical Android smartphone.** Confirm that the Android OS, root environment, and LSPosed build match the APK's actual requirements.
-2. **Install the Virtual Camera Android Root APK from an official source.** Do not install repackaged or unauthorized builds.
-3. **Enable the relevant LSPosed module/configuration.** Grant permissions only if you understand the consequences of root-level modifications.
-4. **Choose a video from your Android gallery.** Use an appropriate file format, aspect ratio, and audio track.
-5. **Adjust playback and routing settings.** Configure orientation, audio handling, looping, and a compatible target app.
-6. **Test privately first.** Check frame timing, audio sync, orientation, and mic isolation in the exact target application before going live.
+**[🚀 DOWNLOAD THE LATEST PUBLISHED APK NOW](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases)**
 
-> **Prerecorded-content transparency:** Follow the rules of every streaming platform and disclose prerecorded material when required. Do not imply that a recording is live if that would mislead viewers or violate applicable platform policies.
+The **[official website](https://hellowisnu12.github.io/Virtual-Camera-Android-Root/)** automatically looks up the newest published GitHub release and links each architecture button to the corresponding APK asset. That avoids sending visitors to a future version that has not yet been uploaded.
 
-## System Requirements
+## 📖 How to Use a Gallery Video as Your Android Camera
 
-- **Device:** Physical Android smartphone with a supported architecture (often `arm64-v8a` on modern phones).
-- **Operating system:** Android 11+ is the product's target range, subject to actual APK manifest and testing.
-- **Android root:** Required for root-powered camera integrations.
-- **LSPosed:** Required for supported module integrations.
-- **Video files:** Locally stored files supported by the chosen Virtual Camera Android Root build.
-- **Third-party platforms:** Compatibility varies and must be tested per platform, app version, and phone.
+1. **Install the correct APK** for your Android device architecture.
+2. **Enable Root and LSPosed** (minimum API 101) and configure the Virtual Camera Android Root module.
+3. **Choose a gallery video** on the Media screen.
+4. **Set up audio**, video loop, microphone, orientation and other controls.
+5. **Choose target applications** in your Android/LSPosed configuration.
+6. **Open your streaming or video app** and test the virtual camera feed before going live.
 
-## Frequently Asked Questions
+## 🔥 Android Virtual Camera FAQs
 
-### Can I live stream a prerecorded gallery video on Android?
+### How do I live stream prerecorded videos from my Android gallery?
 
-Virtual Camera Android Root is specifically designed around using a selected video as virtual camera input on a rooted Android phone. Whether it works in any particular live-streaming app depends on that app's camera/audio implementation, permissions, and platform restrictions.
+Install Virtual Camera Android Root on a compatible rooted Android phone, choose a gallery video, configure LSPosed and select your target application. Supported camera requests can use the selected gallery video as the virtual source.
 
-### Can I use an MP4 video as my Android camera?
+### Can I use an MP4 video instead of my Android phone camera?
 
-That is a key intended workflow: selecting a compatible file and routing the video through a virtual camera integration for supported apps.
+Yes, that is the primary purpose of Virtual Camera Android Root: use your prerecorded gallery media as the virtual camera input in compatible applications.
 
-### Does Virtual Camera Android Root work with TikTok LIVE, Instagram Live, and YouTube Live?
+### Can I stream the audio embedded in my video?
 
-These are development targets, **not universal compatibility guarantees**. Confirm your specific app versions and devices, and check platform eligibility for live broadcasting.
+The app includes source-audio routing and microphone control, designed to carry your selected video's soundtrack with the virtual camera workflow.
 
-### Does Virtual Camera Android Root replace the Android microphone with the video's audio?
+### Does this Android virtual camera require Root or LSPosed?
 
-Virtual Camera Android Root is designed to manage source-video audio and microphone routing in supported configurations. Actual mic muting and A/V sync must be verified in each target app.
+**Yes.** The PHONE edition is designed for rooted Android phones and requires **LSPosed API 101 or newer**.
 
-### Does Virtual Camera Android Root work without root or LSPosed?
+### Which Android versions are supported?
 
-Root and LSPosed are expected for the advanced camera-routing workflows described here; this project is **not primarily a non-root Android virtual camera**.
+The developer specifies **Android 11+**, with Android API levels **30, 31, 33, 34, 35, 36 and 37**.
 
-### Is this repository the complete Virtual Camera Android Root source code?
+### Does an APK update reset my Premium subscription?
 
-No. This is a promotional/marketing repository. It does not distribute proprietary Virtual Camera Android Root core implementation, premium licensing code, or production camera and audio hooks.
+The product's license design maintains subscription expiration independently of app updates. Install an update over the existing app with the matching package and signing identity; do not uninstall your existing app before updating.
 
-## Download Virtual Camera Android Root APK
+## ⭐ Ready to Put Your Video Gallery on Camera?
 
-**Version 2.0.20 — GitHub Releases.** Choose the APK that matches your device processor architecture. The app is intended for appropriately configured rooted Android devices with LSPosed; availability and compatibility depend on the actual APK build and device.
+**Stream prepared content. Control the camera source. Take your mobile video workflow further.**
 
-| APK build | Recommended hardware | Direct download |
-|:---|:---|:---|
-| **ARM 64-bit (`arm64-v8a`)** | Most modern ARM-based Android phones | [Download arm64-v8a APK](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases/download/v2.0.20/VCAR-2.0.20-protected-arm64-v8a.apk) |
-| **ARM 32-bit (`armeabi-v7a`)** | Older or compatible 32-bit ARM devices | [Download armeabi-v7a APK](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases/download/v2.0.20/VCAR-2.0.20-protected-armeabi-v7a.apk) |
-| **x86 64-bit (`x86_64`)** | Android devices/installations using an x86_64 processor | [Download x86_64 APK](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases/download/v2.0.20/VCAR-2.0.20-protected-x86_64.apk) |
+[**⬇️ DOWNLOAD VIRTUAL CAMERA ANDROID ROOT**](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases) · [**🌐 OFFICIAL WEBSITE**](https://hellowisnu12.github.io/Virtual-Camera-Android-Root/)
 
-**[View official release v2.0.20](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases/tag/v2.0.20)** · **[Visit the GitHub repository](https://github.com/hellowisnu12/Virtual-Camera-Android-Root)** · **[Open the promotional website](https://hellowisnu12.github.io/Virtual-Camera-Android-Root/)**
+<details>
+<summary><strong>Popular long-tail search topics</strong></summary>
 
-> **Download status:** The links above are release URL templates using your requested GitHub repository, tag and screenshot filenames. They will return an error until you **publish GitHub Release `v2.0.20` and upload the exact `.apk` filenames** shown below. No APK binaries are included in this marketing kit.
+Virtual camera Android root APK, Android virtual camera for live streaming, how to live stream gallery video on Android, Android gallery video as camera, replace Android camera with MP4, LSPosed virtual camera module Android 11, Android root camera replacement with original audio, virtual camera TikTok LIVE Android, virtual camera Instagram Live Android, prerecorded video live streaming from Android gallery, Android virtual camera with microphone mute, loop gallery video as camera, live streaming virtual camera for rooted phones, Virtual Camera Android Root arm64-v8a APK.
 
-**Exact GitHub Release asset filenames:**
+</details>
 
-```text
-VCAR-2.0.20-protected-arm64-v8a.apk
-VCAR-2.0.20-protected-armeabi-v7a.apk
-VCAR-2.0.20-protected-x86_64.apk
-```
-
-GitHub's download filenames use **`VCAR` only because that is the existing binary filename** shown in your screenshot. The product branding everywhere else is **Virtual Camera Android Root**. On Windows, `.apk` file extensions may be hidden in File Explorer; verify the actual file names before release.
-
-**About builds:** `arm64-v8a` is the usual choice for a modern ARM-based Android smartphone. `x86_64` is for x86-based Android environments, not automatically compatible with ARM phones. A supported ABI does not guarantee compatible Android version, root environment or LSPosed setup. Check APK metadata and test each build before publishing.
-
-![Virtual Camera Android Root promotional infographic](assets/virtual-camera-android-root-promotional-infographic.png)
-
-> **Promotional artwork:** This illustration depicts a product vision. Claims of universal compatibility, synchronization guarantees, and supported releases require individual verification before publication.
-
-## Promotional Images and Website
-
-| Asset | Purpose |
-|:--|:--|
-| [`index.html`](index.html) | Responsive promotional landing page, suitable for static hosting/GitHub Pages |
-| [`assets/virtual-camera-android-root-hero-banner.png`](assets/virtual-camera-android-root-hero-banner.png) | GitHub README hero banner |
-| [`assets/virtual-camera-android-root-social-preview.png`](assets/virtual-camera-android-root-social-preview.png) | Social share/SEO visual concept |
-| [`assets/virtual-camera-android-root-how-it-works.png`](assets/virtual-camera-android-root-how-it-works.png) | Gallery-to-camera workflow diagram |
-| [`assets/virtual-camera-android-root-audio-routing.png`](assets/virtual-camera-android-root-audio-routing.png) | Audio/video routing illustration |
-| [`assets/virtual-camera-android-root-orientation.png`](assets/virtual-camera-android-root-orientation.png) | Portrait/landscape promotional visual |
-| [`assets/virtual-camera-android-root-promotional-infographic.png`](assets/virtual-camera-android-root-promotional-infographic.png) | Rebranded promotional artwork; aspirational claims and visuals require independent verification before advertising |
-| [`SEO_KEYWORDS.md`](SEO_KEYWORDS.md) | Search intent, long-tail keyword groupings, and realistic SEO publishing plan |
-
-![Virtual Camera Android Root social media promotional preview](assets/virtual-camera-android-root-social-preview.png)
-
-## Ownership and Legal Notice
-
-**Virtual Camera Android Root** is a product name used for this promotional showcase. The included artwork and informational files do not grant rights to the private application source code. Third-party platform names are used descriptively; no affiliation or endorsement is implied. Some promotional images depict concept features or in-development functionality.
-
-**Copyright © Virtual Camera Android Root project owner. All rights reserved.** See [`LICENSE`](LICENSE) and [`SEO_SETUP.md`](SEO_SETUP.md).
+*Virtual Camera Android Root is a proprietary application. This public repository provides product information, screenshots, and APK distribution—not its private camera-routing or licensing source code.*
