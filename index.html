@@ -1,277 +1,96 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#06161b">
-  <meta name="description" content="Turn gallery videos into virtual camera input on rooted Android phones. Explore Virtual Camera Android Root with LSPosed, source-video audio, playback loops and orientation controls.">
-  <meta name="robots" content="index,follow,max-image-preview:large">
-  <meta name="author" content="Virtual Camera Android Root">
-  <title>Virtual Camera Android Root APK | Live Stream Gallery Videos</title>
-  <link rel="icon" type="image/png" href="assets/virtual-camera-android-root-icon.png">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Virtual Camera Android Root | Gallery Video Live Streaming">
-  <meta property="og:description" content="Turn your gallery videos into a virtual camera source on compatible rooted Android phones. Explore source audio, loops, orientation controls and LSPosed integration.">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Virtual Camera Android Root">
-  <meta name="twitter:description" content="Gallery videos to virtual camera input on rooted Android. Discover Virtual Camera Android Root's creator-focused capabilities.">
-  <link rel="canonical" href="https://hellowisnu12.github.io/Virtual-Camera-Android-Root/">
-  <meta property="og:url" content="https://hellowisnu12.github.io/Virtual-Camera-Android-Root/">
-  <meta property="og:image" content="https://hellowisnu12.github.io/Virtual-Camera-Android-Root/assets/virtual-camera-android-root-social-preview.png">
-  <meta property="og:image:alt" content="Virtual Camera Android Root promotional showcase">
-  <meta name="twitter:image" content="https://hellowisnu12.github.io/Virtual-Camera-Android-Root/assets/virtual-camera-android-root-social-preview.png">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="theme-color" content="#071418"/>
+  <meta name="description" content="Virtual Camera Android Root turns gallery videos into virtual camera streams on rooted Android. Developer-tested with 500+ apps. Original video audio, loops, LSPosed API 101+, Android 11+. Download the APK on GitHub."/>
+  <meta name="robots" content="index,follow,max-image-preview:large"/>
+  <meta name="author" content="Virtual Camera Android Root"/>
+  <link rel="canonical" href="https://hellowisnu12.github.io/Virtual-Camera-Android-Root/"/>
+  <link rel="icon" href="assets/virtual-camera-android-root-icon.png" type="image/png"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="Virtual Camera Android Root | Live Stream Gallery Videos on Android"/>
+  <meta property="og:description" content="Your Android gallery. Your virtual camera. Root + LSPosed. Source-video audio, loops, target-app controls, 500+ developer-tested apps."/>
+  <meta property="og:url" content="https://hellowisnu12.github.io/Virtual-Camera-Android-Root/"/>
+  <meta property="og:image" content="https://hellowisnu12.github.io/Virtual-Camera-Android-Root/assets/virtual-camera-android-root-banner.jpg"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <title>Virtual Camera Android Root APK | Live Stream Gallery Video on Android</title>
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "SoftwareApplication",
-    "name": "Virtual Camera Android Root",
-    "applicationCategory": "MultimediaApplication",
-    "operatingSystem": "Android 11 and later (compatible rooted devices)",
-    "softwareVersion": "2.0.20",
-    "description": "Virtual Camera Android Root is a virtual camera utility designed to route gallery videos as camera input on compatible rooted Android smartphones using LSPosed. Features under development or device-dependent include original video audio routing, microphone control, playback loops, and orientation management.",
-    "softwareRequirements": "Compatible physical Android smartphone, Android root, LSPosed framework"
-  }
+    {"@context":"https://schema.org","@type":"SoftwareApplication","name":"Virtual Camera Android Root","url":"https://hellowisnu12.github.io/Virtual-Camera-Android-Root/","applicationCategory":"MultimediaApplication","operatingSystem":"Android 11+","description":"Android virtual camera APK for rooted smartphones with LSPosed API 101+. Use gallery video as virtual camera input with source audio, loop playback, orientation and target-app controls.","downloadUrl":"https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases","softwareRequirements":"Android root, LSPosed API 101 or newer, Android API levels 30,31,33,34,35,36,37"}
   </script>
-  <style>
-  :root {
-    --bg:#061318;--bg2:#081e23;--panel:#0b2429;--panel2:#0c2d32;--line:#235055;
-    --text:#f2fbfc;--muted:#a6c0c5;--mint:#37e8ce;--mint2:#69f4d7;
-    --gold:#ffd277;--max:1180px;--radius:22px;
-    color-scheme:dark;
-  }
-  *,*::before,*::after{box-sizing:border-box}
-  html{scroll-behavior:smooth;scroll-padding-top:95px}
-  body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.68;overflow-x:hidden}
-  body::before{content:"";z-index:-1;position:absolute;top:-370px;right:0;width:min(1100px,100vw);height:1250px;pointer-events:none;background:radial-gradient(ellipse,#036b6960 0%,#05383533 37%,transparent 68%)}
-  a{color:var(--mint);text-decoration:none}a:hover{text-decoration:underline}a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var(--gold);outline-offset:4px}
-  img{max-width:100%;height:auto;display:block}
-  .wrap{width:min(calc(100% - 40px),var(--max));margin-inline:auto}
-  .skip{position:absolute;left:-9999px;top:1rem;background:white;color:#021b1f;padding:.5rem 1rem;z-index:100}.skip:focus{left:1rem}
-  header{position:sticky;top:0;z-index:30;background:#061318de;border-bottom:1px solid #4dc7b32b;backdrop-filter:blur(17px)}
-  .nav{display:flex;align-items:center;justify-content:space-between;min-height:78px;gap:30px}
-  .brand{display:inline-flex;gap:10px;align-items:center;color:white;text-decoration:none}.brand:hover{text-decoration:none}
-  .brand img{width:43px;height:43px;object-fit:contain}.brand-name{font-weight:850;letter-spacing:-.05em;font-size:1.15rem;line-height:1.15;max-width:245px}
-  .nav-links{display:flex;gap:29px;align-items:center}.nav-links a{font-size:.89rem;color:#d7edef;font-weight:650}.nav-links a:hover{color:var(--mint)}
-  .btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:12px 20px;border-radius:13px;font-weight:780;text-decoration:none;white-space:nowrap;transition:transform .17s,box-shadow .17s,background .17s}
-  .btn:hover{text-decoration:none;transform:translateY(-2px)}
-  .btn-primary{background:linear-gradient(135deg,var(--mint2),#0fd6b8);color:#042122;box-shadow:0 12px 32px #18ceb029}
-  .btn-primary:hover{box-shadow:0 14px 38px #18ceb05a}.btn-outline{border:1px solid #497a7c;color:white;background:#ffffff08}.btn-outline:hover{background:#ffffff12}
-  .nav-cta{padding:10px 17px;font-size:.84rem}
-  .hero{padding:78px 0 55px;position:relative}
-  .hero-grid{display:grid;grid-template-columns:1.02fr .98fr;align-items:center;gap:54px}
-  .eyebrow{display:inline-flex;gap:9px;align-items:center;border:1px solid #2c706e;padding:7px 13px;border-radius:50px;color:#a5f0dd;font-weight:780;letter-spacing:.13em;font-size:.68rem;text-transform:uppercase;background:#0b393b}
-  .eyebrow .dot{height:7px;width:7px;display:block;border-radius:50%;background:#53f0cc;box-shadow:0 0 16px #33e4c3}
-  h1,h2,h3,p{margin-top:0}h1,h2,h3{line-height:1.13;letter-spacing:-.04em}
-  h1{font-size:clamp(2.8rem,5.15vw,5.45rem);line-height:1.055;margin:23px 0 24px;font-weight:850}
-  h1 span,.gradient{background:linear-gradient(95deg,#8effe5,#22dec7 56%,#66b9ff);-webkit-background-clip:text;background-clip:text;color:transparent}
-  .lead{font-size:1.06rem;max-width:590px;color:#bad0d4;margin-bottom:24px}
-  .hero-actions{display:flex;flex-wrap:wrap;gap:12px;margin:29px 0 20px}
-  .fineprint{font-size:.78rem;color:#8faab0;max-width:580px}
-  .chips{display:flex;gap:9px;flex-wrap:wrap;margin:25px 0 0}.chip{font-size:.77rem;font-weight:700;border-radius:50px;padding:6px 11px;border:1px solid #386266;color:#d2eded;background:#102c30}
-  .hero-visual{position:relative}.visual-frame{padding:8px;border:1px solid #3477797d;background:linear-gradient(160deg,#093b3c85,#04191c);border-radius:25px;box-shadow:0 35px 100px #0009;overflow:hidden}
-  .visual-frame img{border-radius:17px;width:100%;object-fit:cover;aspect-ratio:1.85}
-  .float-pill{position:absolute;right:-13px;bottom:-24px;padding:14px 18px;background:#103a3ecf;backdrop-filter:blur(15px);border:1px solid #46c0b2;border-radius:16px;box-shadow:0 16px 35px #0009;font-weight:750;font-size:.87rem}
-  .float-pill strong{color:var(--mint)}
-  .statstrip{border-top:1px solid #254449;border-bottom:1px solid #254449;background:#0a2227;display:grid;grid-template-columns:repeat(3,1fr);margin-top:68px}
-  .stat{padding:25px 22px;display:flex;gap:15px;align-items:center;border-right:1px solid #254449}.stat:last-child{border:0}
-  .stat-ico{font-size:1.6rem;background:#11393e;border:1px solid #255f5f;border-radius:14px;height:54px;width:54px;display:grid;place-items:center;flex:none}
-  .stat strong{display:block;font-size:.96rem;line-height:1.35}.stat small{font-size:.81rem;color:var(--muted)}
-  section{padding:95px 0}.section-head{max-width:770px;margin-bottom:34px}.kicker{font-size:.7rem;color:var(--mint);font-weight:860;text-transform:uppercase;letter-spacing:.17em;margin-bottom:13px}
-  h2{font-size:clamp(2rem,4.1vw,3.4rem);font-weight:840;margin-bottom:16px}.section-head p{font-size:1.02rem;color:var(--muted)}
-  .feature-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
-  .feature{background:linear-gradient(154deg,#102f34,#0a2228);border:1px solid #2b5758;border-radius:var(--radius);padding:24px;min-height:253px;transition:transform .2s,border .2s}
-  .feature:hover{transform:translateY(-5px);border-color:#36cdb5}.feature .symbol{display:grid;place-items:center;font-size:1.65rem;background:#134147;border:1px solid #2a7574;border-radius:14px;width:54px;height:54px;margin-bottom:21px}
-  .feature h3{font-size:1.1rem;margin-bottom:11px;letter-spacing:-.02em}.feature p{font-size:.87rem;color:var(--muted);margin:0}
-  .flow-section{background:linear-gradient(160deg,#0b262c,#04151a)}
-  .flow-layout{display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:center}
-  .flow-steps{padding:0;margin:0;list-style:none;counter-reset:steps}.flow-steps li{counter-increment:steps;position:relative;padding:0 0 23px 70px;min-height:89px;border-left:1px solid #24575a;margin-left:23px}.flow-steps li:last-child{border-left-color:transparent}
-  .flow-steps li::before{content:counter(steps,decimal-leading-zero);position:absolute;left:-24px;top:0;width:48px;height:48px;border-radius:14px;display:grid;place-items:center;font-weight:850;color:var(--mint);background:#114345;border:1px solid #3a8b83}
-  .flow-steps strong{display:block;font-size:1rem;margin:0 0 3px}.flow-steps span{color:var(--muted);font-size:.89rem}
-  .image-card{background:#062126;padding:8px;border:1px solid #2d6b69;border-radius:22px;box-shadow:0 24px 64px #0006}.image-card img{border-radius:16px;width:100%}
-  .visual-gallery{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:33px}
-  .promo-card{overflow:hidden;border-radius:22px;border:1px solid #326663;background:#0d282e}
-  .promo-card img{width:100%;aspect-ratio:2 / 1;object-fit:cover}.promo-copy{padding:21px 22px 25px}.promo-copy h3{font-size:1.2rem;margin-bottom:7px}.promo-copy p{font-size:.9rem;color:var(--muted);margin:0}
-  .compatible{display:flex;flex-wrap:wrap;gap:9px;margin-top:25px}.platform{padding:9px 15px;border-radius:11px;border:1px solid #2e6162;background:#0f3339;color:#d9f1f0;font-weight:660;font-size:.88rem}
-  .note{border-left:3px solid var(--mint);background:#12363b;padding:16px 20px;color:#c4e4e0;font-size:.9rem;border-radius:0 11px 11px 0;margin-top:29px}
-  .use-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.use-card{border-radius:22px;background:#112e33;border:1px solid #2a595d;padding:29px}.use-card h3{font-size:1.2rem}.use-card p{font-size:.92rem;color:var(--muted);margin:0}
-  .faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:13px 18px;align-items:start}
-  details{background:#0c292f;border:1px solid #315a5d;border-radius:14px;padding:19px 21px;min-height:71px}summary{cursor:pointer;font-weight:750;line-height:1.4}summary::marker{color:var(--mint)}details p{color:var(--muted);margin:16px 0 0;font-size:.91rem}
-  .download-section{padding:88px 0 100px}.download-panel{background:radial-gradient(circle at 80% 10%,#14736c73,transparent 42%),linear-gradient(128deg,#123a3d,#071d24);border:1px solid #3fae9a;border-radius:30px;padding:55px;display:grid;grid-template-columns:1fr auto;gap:35px;align-items:center;box-shadow:0 32px 80px #0007}
-  .download-panel h2{margin-bottom:12px}.download-panel p{color:#bfd7d6;margin:0;max-width:630px}.download-actions{display:flex;flex-direction:column;gap:10px}.download-note{font-size:.75rem;color:#b3d2d0;text-align:center;max-width:280px}
-  .publisher-note{margin-top:14px;border:1px dashed #58938d;padding:13px 16px;border-radius:12px;font-size:.84rem;color:#c8e4e2}
-  footer{border-top:1px solid #27484a;padding:34px 0 45px;background:#051316}.footerrow{display:flex;justify-content:space-between;gap:25px;flex-wrap:wrap;align-items:start}
-  .footcopy{font-size:.79rem;color:#92abad;max-width:780px;margin:11px 0 0}.footerlinks{display:flex;gap:16px;flex-wrap:wrap}.footerlinks a{color:#d2e4e4;font-size:.86rem}
-  @media(max-width:1000px){.feature-grid{grid-template-columns:repeat(2,1fr)}.hero-grid{gap:25px}.nav-links{gap:16px}}
-  @media(max-width:760px){.wrap{width:min(calc(100% - 30px),var(--max))}.nav{min-height:72px}.nav-links{display:none}.hero{padding:55px 0 32px}.hero-grid,.flow-layout{grid-template-columns:1fr}.hero-visual{margin:14px 3px 25px}.visual-frame img{aspect-ratio:auto}.float-pill{right:7px;bottom:-20px}.statstrip{grid-template-columns:1fr}.stat{border-right:none;border-bottom:1px solid #254449;padding:19px}.stat:last-child{border:0}section{padding:65px 0}.visual-gallery,.faq-grid,.use-grid{grid-template-columns:1fr}.download-panel{grid-template-columns:minmax(0,1fr);padding:30px 24px;min-width:0}.download-panel>div{min-width:0}.download-actions .btn{white-space:normal;text-align:center;line-height:1.3}.download-actions{align-items:stretch}.download-note{text-align:left}.flow-steps{margin-top:24px}.feature{min-height:unset}}
-  @media(max-width:490px){h1{font-size:2.75rem}.hero-actions{flex-direction:column;align-items:stretch}.feature-grid{grid-template-columns:1fr}.chip{font-size:.73rem}.brand-name{font-size:.91rem;max-width:170px}.nav-cta{font-size:.72rem;padding:9px 10px;white-space:normal;text-align:center;max-width:145px}.section-head p{font-size:.94rem}.brand img{width:35px;height:35px}.nav-cta{display:none}.eyebrow{font-size:.61rem;letter-spacing:.06em;line-height:1.4;white-space:normal;flex-wrap:wrap}.hero-actions .btn{white-space:normal;text-align:center;line-height:1.35;font-size:.89rem}.download-panel h2{font-size:2.2rem}}
-
-  /* GitHub Release ABI download cards */
-  .download-panel{grid-template-columns:1fr;gap:26px}
-  .download-abi-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:25px}
-  .download-abi{background:linear-gradient(145deg,#0e3036,#081f25);border:1px solid #397972;border-radius:18px;padding:22px 20px;min-width:0;display:flex;flex-direction:column;gap:11px}
-  .download-abi.featured{border-color:#52ebd2;box-shadow:0 0 0 1px #30cbb44d,0 20px 45px #0004}
-  .download-abi h3{margin:0;font-size:1.15rem}.download-abi p{margin:0;color:var(--muted);font-size:.86rem;flex:1}
-  .download-abi .build-label{font-size:.72rem;font-weight:840;letter-spacing:.12em;text-transform:uppercase;color:var(--mint)}
-  .download-abi .btn{font-size:.89rem;justify-content:center;white-space:normal;text-align:center;min-height:47px}
-  .download-abi code{font-size:.7rem;overflow-wrap:anywhere;color:#afcecd}
-  .release-secondary{display:flex;flex-wrap:wrap;gap:13px;align-items:center;margin-top:20px;font-size:.89rem}
-  .release-secondary a{color:#71eadc;text-decoration:underline;text-underline-offset:4px}
-  .release-tip{color:#b0c6c6;font-size:.83rem;line-height:1.6;margin:19px 0 0}
-  @media(max-width:800px){.download-abi-grid{grid-template-columns:1fr}.download-panel{padding:30px 24px}}
-  @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
-  </style>
+<style>
+:root{color-scheme:dark;--bg:#061217;--panel:#0d2229;--panel2:#0b2d33;--line:#29535b;--fg:#f2f9fa;--dim:#a9c1c7;--mint:#5de6ca;--aqua:#1fd0ca;--gold:#f3d18c;--max:1170px}*{box-sizing:border-box}html{scroll-behavior:smooth}body{background:radial-gradient(ellipse at 75% 0%,#0e4b4c 0%,#061217 42%);color:var(--fg);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;margin:0;line-height:1.65}a{color:var(--mint);text-decoration:none}a:hover{text-decoration:underline}img{display:block;max-width:100%}.wrap{max-width:var(--max);margin:auto;padding:0 24px}.nav{position:sticky;top:0;background:#061217e9;backdrop-filter:blur(12px);z-index:5;border-bottom:1px solid #2a56594f}.navrow{height:73px;display:flex;align-items:center;justify-content:space-between;gap:14px}.logo{display:flex;align-items:center;gap:12px;color:var(--fg);font-size:1rem;font-weight:800;line-height:1.15;letter-spacing:-.02em}.logo img{width:48px;height:48px;object-fit:contain}.menu{display:flex;align-items:center;gap:23px;font-weight:650;font-size:.88rem}.menu a{color:#d5efee}.button{background:linear-gradient(125deg,#77f7d6,#25d7c2);color:#062323!important;display:inline-flex;align-items:center;justify-content:center;text-align:center;gap:8px;border:0;border-radius:12px;padding:14px 20px;font-weight:850;box-shadow:0 12px 34px #11c7b61f;text-decoration:none!important;transition:transform .2s}.button:hover{transform:translateY(-2px)}.button.alt{background:#132e36;color:var(--fg)!important;box-shadow:none;border:1px solid #42646d}.button.blue{background:linear-gradient(120deg,#3ba1ff,#075bdd);color:white!important}.button.purple{background:linear-gradient(120deg,#ae79ff,#6f35e6);color:white!important}section{padding:76px 0}.hero{padding-top:36px;padding-bottom:70px}.banner{border-radius:20px;overflow:hidden;border:1px solid #398c8e;box-shadow:0 20px 80px #0008}.banner img{width:100%;height:auto}.hero-body{text-align:center;margin:auto;max-width:920px;padding:34px 0 0}.eyebrow{display:inline-block;background:#123d3d;border:1px solid #32746e;color:#9dffe7;padding:5px 14px;border-radius:999px;text-transform:uppercase;letter-spacing:.14em;font-size:.73rem;font-weight:800}h1,h2,h3{line-height:1.13;letter-spacing:-.035em}h1{font-size:clamp(2.65rem,6.3vw,5rem);margin:18px 0}h2{font-size:clamp(2.1rem,4vw,3.3rem);margin:0 0 16px}h3{font-size:1.18rem;margin:0 0 9px}.shine{background:linear-gradient(90deg,#d3fff1,#32e0c2,#6cc9ff);color:transparent;background-clip:text}.lead{color:#bad2d4;font-size:1.11rem}.cta{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin:25px auto}.pills{display:flex;justify-content:center;flex-wrap:wrap;gap:9px;margin-top:22px}.pill{border:1px solid #366269;background:#102b30;border-radius:50px;padding:6px 13px;color:#c5e8e4;font-size:.81rem;font-weight:700}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.feature{border-radius:18px;background:linear-gradient(150deg,#102b31,#0b1c23);border:1px solid var(--line);padding:25px;min-height:207px}.feature .mark{font-size:1.9rem;margin-bottom:17px}.feature p{color:var(--dim);font-size:.93rem;margin:0}.intro{max-width:835px;color:var(--dim)}.intro strong{color:var(--fg)}.section-head{margin-bottom:28px}.section-head p{color:var(--dim);max-width:780px}.glow{background:linear-gradient(145deg,#0b2429,#08191e);border-top:1px solid #173e43;border-bottom:1px solid #173e43}.appgroups{display:grid;grid-template-columns:1fr 1fr;gap:18px}.appgroup{padding:23px;border-radius:18px;border:1px solid var(--line);background:#0b2027}.appgroup p{color:var(--dim);margin:0}.screenshots{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:13px}.shot{background:#10292e;border:1px solid #305960;border-radius:18px;overflow:hidden;padding:8px}.shot img{border-radius:10px;width:100%;height:auto}.shot figcaption{text-align:center;padding:9px 4px;color:#b7e2db;font-size:.85rem;font-weight:750}.downloads{border:1px solid #3baba1;border-radius:23px;background:linear-gradient(125deg,#0e3d3d,#0c242c 52%,#0d2335);padding:32px;box-shadow:0 20px 65px #0005}.download-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:24px 0}.build{background:#0a222b;border:1px solid #39747b;border-radius:15px;padding:23px;display:flex;flex-direction:column;gap:13px}.build p{color:var(--dim);margin:0;font-size:.9rem;flex:1}.build .button{padding:13px 12px}.status{font-size:.89rem;color:#d1e0d8}.tablebox{overflow:auto}.specs{width:100%;border-collapse:collapse}.specs th,.specs td{padding:15px;text-align:left;border-bottom:1px solid #2b4f55}.specs th{color:#adcbc8;width:38%}.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:17px;counter-reset:steps}.step{padding:22px;border:1px solid #2a555a;border-radius:15px;background:#10272c}.step:before{counter-increment:steps;content:counter(steps,decimal-leading-zero);color:var(--mint);font-size:1.5rem;font-weight:850;display:block;margin-bottom:12px}.step p{color:var(--dim);margin:0}.faq details{border-bottom:1px solid #2b5359;padding:17px 0}.faq summary{cursor:pointer;font-size:1.08rem;font-weight:750}.faq p{color:var(--dim)}.poster{border:1px solid #285f64;border-radius:16px;overflow:hidden}.poster img{width:100%;height:auto}footer{border-top:1px solid #25545a;background:#051116;padding:32px 0;color:#9fbbc1;font-size:.85rem}footer .wrap{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}.muted{color:var(--dim)}.mini{font-size:.82rem;color:#a9c4c6}.skip{position:absolute;left:-9999px;top:auto}.skip:focus{left:10px;top:10px;background:white;color:black;padding:9px;z-index:100}@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}.screenshots{grid-template-columns:repeat(3,minmax(0,1fr))}.download-grid,.steps{grid-template-columns:1fr 1fr}.menu a:not(.button){display:none}}@media(max-width:610px){.wrap{padding:0 16px}.navrow{height:65px}.logo{font-size:.83rem}.logo img{width:41px;height:41px}.nav .button{font-size:.75rem;padding:10px}.hero{padding-top:18px}section{padding:56px 0}.hero-body{padding:25px 0 0}.grid,.appgroups,.download-grid,.steps{grid-template-columns:1fr}.screenshots{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.cta .button{width:100%}.downloads{padding:19px}.menu{gap:0}.button{font-size:.9rem}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button{transition:none}}
+</style>
 </head>
 <body>
-<a class="skip" href="#main">Skip to main content</a>
-<header>
-  <nav class="wrap nav" aria-label="Primary navigation">
-    <a class="brand" href="#top" aria-label="Virtual Camera Android Root home">
-      <img src="assets/virtual-camera-android-root-icon.png" width="43" height="43" alt="">
-      <span class="brand-name">Virtual Camera Android Root</span>
-    </a>
-    <div class="nav-links"><a href="#features">Features</a><a href="#how-it-works">How it works</a><a href="#compatibility">Compatibility</a><a href="#faq">FAQ</a></div>
-    <a href="#download" class="btn btn-primary nav-cta">Get Virtual Camera Android Root <span aria-hidden="true">↗</span></a>
-  </nav>
-</header>
-<main id="main">
-  <div id="top" class="hero">
-    <div class="wrap hero-grid">
-      <div>
-        <span class="eyebrow"><span class="dot"></span> ANDROID ROOT • LSPOSED • Virtual Camera Android Root 2.0.20</span>
-        <h1>Your gallery.<br><span>Your virtual camera.</span></h1>
-        <p class="lead">Meet <strong>Virtual Camera Android Root</strong>, a root-powered Android virtual camera designed to help you <strong>live stream prerecorded videos from your phone gallery</strong> through compatible camera-based apps.</p>
-        <p class="lead">Select an MP4 video, explore source-video audio routing, manage looping and orientation, and give supported streaming workflows a new way to use prerecorded content.</p>
-        <div class="hero-actions"><a class="btn btn-primary" href="#download">Explore Virtual Camera Android Root APK <span aria-hidden="true">↗</span></a><a class="btn btn-outline" href="#features">Discover the features <span aria-hidden="true">↓</span></a></div>
-        <p class="fineprint">Made for rooted <strong>physical Android phones</strong>, targeting Android 11+. Features and compatibility depend on app versions, hardware, and implementation.</p>
-        <div class="chips"><span class="chip">Android 11+ target</span><span class="chip">Root + LSPosed</span><span class="chip">Gallery → camera</span><span class="chip">Portrait & landscape</span></div>
-      </div>
-      <div class="hero-visual">
-        <div class="visual-frame"><img src="assets/virtual-camera-android-root-hero-banner.png" width="1600" height="800" alt="Virtual Camera Android Root branded promotional mockup illustrating gallery video routed into an Android virtual camera" fetchpriority="high"></div>
-        <div class="float-pill">✦ <strong>Built for creators</strong> & Android power users</div>
-      </div>
-    </div>
-    <div class="wrap statstrip" aria-label="Primary benefits">
-      <div class="stat"><div class="stat-ico" aria-hidden="true">▶</div><div><strong>Video from your gallery</strong><small>Use compatible local video files as intended camera input</small></div></div>
-      <div class="stat"><div class="stat-ico" aria-hidden="true">♫</div><div><strong>Original soundtrack focus</strong><small>Designed around audio routed from the source video</small></div></div>
-      <div class="stat"><div class="stat-ico" aria-hidden="true">↻</div><div><strong>Flexible playback</strong><small>Looping, orientation and app-level configuration goals</small></div></div>
-    </div>
-  </div>
-
-  <section id="features" aria-labelledby="features-title">
-    <div class="wrap">
-      <div class="section-head"><p class="kicker">A different camera source</p><h2 id="features-title">Make prerecorded video part of your <span class="gradient">streaming workflow.</span></h2><p>Virtual Camera Android Root is developed around replacing compatible camera input with selected gallery videos. Its feature set focuses on the details that matter when moving from a video file to camera-based streaming.</p></div>
-      <div class="feature-grid">
-        <article class="feature"><div class="symbol" aria-hidden="true">▣</div><h3>Gallery video input</h3><p>Choose a prerecorded video stored on your phone and use it as the intended virtual camera source.</p></article>
-        <article class="feature"><div class="symbol" aria-hidden="true">◉</div><h3>Virtual camera routing</h3><p>Root and LSPosed-based integration targets compatible front and rear camera requests.</p></article>
-        <article class="feature"><div class="symbol" aria-hidden="true">♫</div><h3>Original video audio</h3><p>Designed to source sound from the media file, with A/V synchronization as an important development goal.</p></article>
-        <article class="feature"><div class="symbol" aria-hidden="true">⌁</div><h3>Microphone management</h3><p>Audio controls are intended to help avoid unwanted external microphone sound where supported.</p></article>
-        <article class="feature"><div class="symbol" aria-hidden="true">∞</div><h3>Loop playback</h3><p>Repeat a selected gallery video in extended playback workflows; test actual session reliability.</p></article>
-        <article class="feature"><div class="symbol" aria-hidden="true">▯</div><h3>Portrait and landscape</h3><p>Support designs for 9:16 vertical and 16:9 horizontal video, with reduced stretching as a goal.</p></article>
-        <article class="feature"><div class="symbol" aria-hidden="true">⌘</div><h3>Target app selection</h3><p>Configure the apps intended to use virtual camera routing rather than enabling every app automatically.</p></article>
-        <article class="feature"><div class="symbol" aria-hidden="true">⚙</div><h3>Android root control</h3><p>Advanced camera customization for compatible physical phones with root access and LSPosed.</p></article>
-      </div>
-    </div>
-  </section>
-
-  <section id="how-it-works" class="flow-section" aria-labelledby="how-title">
-    <div class="wrap flow-layout">
-      <div><p class="kicker">Simple creative concept</p><h2 id="how-title">How to use a gallery video as an <span class="gradient">Android virtual camera</span></h2><p class="lead">The idea is straightforward. The underlying camera and audio compatibility is device- and app-dependent.</p>
-        <ol class="flow-steps">
-          <li><strong>Prepare your rooted Android phone</strong><span>Confirm a compatible physical device, LSPosed configuration and APK build.</span></li>
-          <li><strong>Select a prerecorded gallery video</strong><span>Choose a suitable local file and check its aspect ratio and audio track.</span></li>
-          <li><strong>Configure playback and target app</strong><span>Set intended camera source, orientation, looping and audio options.</span></li>
-          <li><strong>Test the feed before broadcasting</strong><span>Verify video frames, original sound, orientation and microphone isolation privately.</span></li>
-        </ol>
-      </div>
-      <div class="image-card"><img src="assets/virtual-camera-android-root-how-it-works.png" width="1200" height="600" alt="Diagram showing local gallery video flowing through Virtual Camera Android Root root and LSPosed camera routing to a compatible target app" loading="lazy"></div>
-    </div>
-  </section>
-
-  <section id="visuals" aria-labelledby="media-title">
-    <div class="wrap">
-      <div class="section-head"><p class="kicker">More than a camera swap</p><h2 id="media-title">Designed for video, <span class="gradient">sound and the right framing.</span></h2><p>When you stream a saved video using a virtual camera, the file's soundtrack and the display orientation matter just as much as the image itself.</p></div>
-      <div class="visual-gallery">
-        <article class="promo-card"><img src="assets/virtual-camera-android-root-audio-routing.png" width="1200" height="600" alt="Conceptual audio and video tracks illustrating Virtual Camera Android Root source-video audio routing and synchronization goals" loading="lazy"><div class="promo-copy"><h3>Make the video soundtrack part of the experience</h3><p>Original-video audio handling and microphone management are central design areas. Actual audio routing and sync must be validated for each app and device.</p></div></article>
-        <article class="promo-card"><img src="assets/virtual-camera-android-root-orientation.png" width="1200" height="600" alt="Virtual Camera Android Root virtual camera concept for vertical portrait and horizontal landscape video formats" loading="lazy"><div class="promo-copy"><h3>From vertical streams to widescreen video</h3><p>Orientation and aspect-ratio handling targets both portrait 9:16 and landscape 16:9 workflows to reduce unwanted distortion.</p></div></article>
-      </div>
-    </div>
-  </section>
-
-  <section id="compatibility" class="flow-section" aria-labelledby="apps-title">
-    <div class="wrap">
-      <div class="section-head"><p class="kicker">For modern streaming ecosystems</p><h2 id="apps-title">Social media and live streaming app <span class="gradient">compatibility targets.</span></h2><p>Looking for an Android virtual camera for TikTok LIVE, Instagram Live, YouTube Live or another social streaming app? Virtual Camera Android Root's development targets camera-based workflows across a broad set of platforms, but implementation varies.</p></div>
-      <div class="compatible" aria-label="Apps mentioned as integration and testing targets"><span class="platform">TikTok / TikTok LIVE</span><span class="platform">Instagram / Instagram Live</span><span class="platform">YouTube / YouTube Live</span><span class="platform">Facebook / Facebook Live</span><span class="platform">Twitch</span><span class="platform">Kick</span><span class="platform">WhatsApp</span><span class="platform">Telegram</span><span class="platform">VK Live</span><span class="platform">BIGO LIVE</span><span class="platform">Shopee Live</span><span class="platform">Likee</span><span class="platform">Tango Live</span><span class="platform">MICO</span><span class="platform">Poppo Live</span><span class="platform">More integrations under evaluation</span></div>
-      <div class="note"><strong>Compatibility notice:</strong> These are <strong>development and testing targets</strong>, not a guarantee that every app, version, video call, or live streaming mode works. Apps may use different Camera APIs, WebRTC implementations, audio paths, and broadcaster eligibility rules. Virtual Camera Android Root cannot grant live-streaming privileges or override a platform's usage policies.</div>
-    </div>
-  </section>
-
-  <section id="audience" aria-labelledby="audience-title">
-    <div class="wrap"><div class="section-head"><p class="kicker">Built for a practical purpose</p><h2 id="audience-title">Create, demonstrate, <span class="gradient">test, repeat.</span></h2><p>Virtual Camera Android Root targets people who want a repeatable, prerecorded camera input instead of relying on a physical camera for every session.</p></div>
-      <div class="use-grid">
-        <article class="use-card"><h3>🎬 Creators</h3><p>Present recorded tutorials, creative clips or prepared demonstrations in compatible camera-based workflows, with disclosure where required.</p></article>
-        <article class="use-card"><h3>🛠 Android power users</h3><p>Explore root/LSPosed camera customization and control which supported applications receive a virtual camera feed.</p></article>
-        <article class="use-card"><h3>🔬 App testers</h3><p>Use repeatable video material when reviewing camera orientation, source selection, audio timing and integration behavior.</p></article>
-      </div>
-    </div>
-  </section>
-
-  <section id="faq" class="flow-section" aria-labelledby="faq-title">
-    <div class="wrap"><div class="section-head"><p class="kicker">Frequently asked questions</p><h2 id="faq-title">Everything to know about <span class="gradient">Virtual Camera Android Root on Android.</span></h2></div>
-      <div class="faq-grid">
-        <details><summary>What is Virtual Camera Android Root?</summary><p>Virtual Camera Android Root is a root-oriented Android virtual camera application designed to send locally stored gallery videos as virtual camera input to compatible apps.</p></details>
-        <details><summary>Can I live stream prerecorded videos from my Android gallery?</summary><p>This is Virtual Camera Android Root's principal intended workflow. Whether an actual live stream accepts the virtual camera depends on your phone, the target app and the specific camera and audio implementations.</p></details>
-        <details><summary>Can I use an MP4 file instead of my phone's front camera?</summary><p>Virtual Camera Android Root is designed for that kind of virtual camera routing on supported rooted Android devices. Test the selected video, resolution and application before relying on the output.</p></details>
-        <details><summary>Does Virtual Camera Android Root work on TikTok, Instagram, YouTube and all social media?</summary><p>These services are integration targets, not a universal compatibility guarantee. Every application version and streaming feature may behave differently; live eligibility and platform rules still apply.</p></details>
-        <details><summary>Can I use original video audio without the microphone?</summary><p>Source-video audio routing and microphone management are important Virtual Camera Android Root design goals. Correct synchronization and isolation need validation on the specific application and phone.</p></details>
-        <details><summary>Does Virtual Camera Android Root support portrait and landscape?</summary><p>Virtual Camera Android Root is designed around vertical 9:16 and horizontal 16:9 video scenarios. Actual output geometry still depends on the target app's supported dimensions and rotation handling.</p></details>
-        <details><summary>Is Virtual Camera Android Root for Android emulators or real phones?</summary><p>This product presentation focuses on physical rooted Android smartphones, not emulator-specific builds.</p></details>
-        <details><summary>Can Virtual Camera Android Root be used without root or LSPosed?</summary><p>The advanced camera routing described here requires a compatible root and LSPosed environment; this page is not advertising a non-root solution.</p></details>
-      </div>
-    </div>
-  </section>
-
-  <section id="download" class="download-section" aria-labelledby="download-title">
-    <div class="wrap">
-      <div class="download-panel">
-        <div><p class="kicker">Official GitHub Releases · Version 2.0.20</p>
-          <h2 id="download-title">Choose your Android <span class="gradient">APK architecture.</span></h2>
-          <p>Download Virtual Camera Android Root for the processor architecture of your Android device. Advanced virtual camera functionality targets compatible Android root and LSPosed setups.</p>
-        </div>
-        <div class="download-abi-grid">
-          <article class="download-abi featured">
-            <span class="build-label">Recommended for modern ARM phones</span>
-            <h3>ARM 64-bit · arm64-v8a</h3>
-            <p>For most contemporary ARM-based Android smartphones.</p>
-            <a class="btn btn-primary" href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases/download/v2.0.20/VCAR-2.0.20-protected-arm64-v8a.apk" target="_blank" rel="noopener noreferrer" aria-label="Download Virtual Camera Android Root for arm64-v8a from GitHub Releases">↓ Download arm64-v8a APK</a>
-            <code>VCAR-2.0.20-protected-arm64-v8a.apk</code>
-          </article>
-          <article class="download-abi">
-            <span class="build-label">32-bit ARM build</span>
-            <h3>ARM 32-bit · armeabi-v7a</h3>
-            <p>For older or compatible ARM 32-bit Android devices.</p>
-            <a class="btn btn-outline" href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases/download/v2.0.20/VCAR-2.0.20-protected-armeabi-v7a.apk" target="_blank" rel="noopener noreferrer" aria-label="Download Virtual Camera Android Root for armeabi-v7a from GitHub Releases">↓ Download armeabi-v7a APK</a>
-            <code>VCAR-2.0.20-protected-armeabi-v7a.apk</code>
-          </article>
-          <article class="download-abi">
-            <span class="build-label">Specialized x86 Android build</span>
-            <h3>Intel / AMD · x86_64</h3>
-            <p>For compatible Android x86_64 devices or environments.</p>
-            <a class="btn btn-outline" href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases/download/v2.0.20/VCAR-2.0.20-protected-x86_64.apk" target="_blank" rel="noopener noreferrer" aria-label="Download Virtual Camera Android Root for x86_64 from GitHub Releases">↓ Download x86_64 APK</a>
-            <code>VCAR-2.0.20-protected-x86_64.apk</code>
-          </article>
-        </div>
-        <div class="release-secondary"><a href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases/tag/v2.0.20" target="_blank" rel="noopener noreferrer">View GitHub Release v2.0.20 ↗</a><a href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root" target="_blank" rel="noopener noreferrer">GitHub repository ↗</a></div>
-        <p class="release-tip"><strong>Release publishing required:</strong> The three direct-download URLs work only after the repository owner publishes release <code>v2.0.20</code> and uploads APKs with exactly the filenames shown. These links are preconfigured destinations, not verified live downloads. Check Android version, device ABI, root, and LSPosed before installing.</p>
-      </div>
-    </div>
-  </section>
-</main>
-<footer>
-  <div class="wrap footerrow">
-    <div><a class="brand" href="#top"><img src="assets/virtual-camera-android-root-icon.png" width="43" height="43" alt=""><span class="brand-name">Virtual Camera Android Root</span></a><p class="footcopy">© 2026 Virtual Camera Android Root project owner. All rights reserved. Product showcase only. The images are illustrative and may depict features being developed. Compatibility, audio synchronization, and availability are not guaranteed for every application. Third-party platform names are used descriptively; no affiliation or endorsement is implied. Follow platform rules on prerecorded content and user transparency.</p></div>
-    <div class="footerlinks"><a href="#features">Features</a><a href="#compatibility">Compatibility</a><a href="#faq">FAQ</a><a href="#download">Download</a></div>
-  </div>
-</footer>
-
-</body>
-</html>
+<a class="skip" href="#content">Skip to content</a>
+<header class="nav"><div class="wrap navrow"><a class="logo" href="#top" aria-label="Virtual Camera Android Root home"><img src="assets/virtual-camera-android-root-icon.png" alt="" width="48" height="48"/> Virtual Camera<br/>Android Root</a><nav class="menu" aria-label="Main navigation"><a href="#features">Features</a><a href="#screenshots">Screenshots</a><a href="#compatibility">500+ Apps</a><a class="button" href="#download">⬇ Download APK</a></nav></div></header>
+<main id="content">
+<section class="hero" id="top"><div class="wrap"><div class="banner"><img src="assets/virtual-camera-android-root-banner.jpg" width="1536" height="448" alt="Virtual Camera Android Root app promotion featuring Android phones, virtual camera controls and 500 plus tested apps" fetchpriority="high"/></div><div class="hero-body"><span class="eyebrow">Android 11+ • Root • LSPosed API 101+</span><h1>Turn Your Gallery Videos Into a <span class="shine">Virtual Camera</span></h1><p class="lead">The Android virtual camera app for live streaming prerecorded videos from your gallery. Keep the source audio, control your microphone, loop content and choose which Android apps use your camera feed.</p><div class="cta"><a class="button" href="#download">⬇ Download Virtual Camera Android Root</a><a class="button alt" href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases" target="_blank" rel="noopener noreferrer">View GitHub Releases ↗</a></div><div class="pills"><span class="pill">✓ 500+ Developer-Tested Apps</span><span class="pill">✓ Android API 30, 31, 33–37</span><span class="pill">✓ LSPosed API 101+</span><span class="pill">✓ Three ABI APKs</span></div></div></div></section>
+<section class="glow"><div class="wrap"><div class="section-head"><h2>Live Stream a Prerecorded Video From Your Android Gallery</h2><p>Looking for a way to <strong>use an MP4 video instead of your Android camera</strong>? Virtual Camera Android Root transforms your selected gallery video into a virtual camera source for supported camera-based streaming and video applications. Your content, your soundtrack, your camera workflow.</p></div><div class="appgroups"><div class="appgroup"><h3>📹 Live streaming and creators</h3><p>Explore camera workflows for TikTok LIVE, Instagram Live, YouTube Live, Facebook Live, Twitch, Kick, VK Live, BIGO LIVE, Shopee Live, Nimo TV, Rumble, Likee, Tango Live, Twitcast and more.</p></div><div class="appgroup"><h3>💬 Video chats and meetings</h3><p>Use cases span WhatsApp, Telegram, Discord, Zoom, Google Meet, Webex, Microsoft Teams, video chat platforms, live shopping and creator demonstrations.</p></div></div></div></section>
+<section id="features"><div class="wrap"><div class="section-head"><h2>Powerful Android <span class="shine">Virtual Camera Features</span></h2><p>Everything you need to manage gallery video playback and camera-source routing on a rooted Android phone.</p></div><div class="grid">
+<div class="feature"><div class="mark">🎞️</div><h3>Video From Gallery</h3><p>Select prerecorded MP4 and compatible videos as your virtual camera source.</p></div>
+<div class="feature"><div class="mark">🎵</div><h3>Original Video Audio</h3><p>Use your video's own soundtrack with source audio replacement controls.</p></div>
+<div class="feature"><div class="mark">🔁</div><h3>Loop &amp; Shuffle</h3><p>Repeat videos for ongoing streaming and customize your playback.</p></div>
+<div class="feature"><div class="mark">🎙️</div><h3>Microphone Control</h3><p>Control unwanted microphone capture and prioritize your video audio.</p></div>
+<div class="feature"><div class="mark">📱</div><h3>Portrait / Landscape</h3><p>Configure orientation and aspect-ratio handling for vertical or horizontal streams.</p></div>
+<div class="feature"><div class="mark">🎯</div><h3>Target App Selector</h3><p>Choose compatible Android applications for your virtual camera profile.</p></div>
+<div class="feature"><div class="mark">⚙️</div><h3>Advanced Root Controls</h3><p>Manage the virtual camera, audio replacement, and LSPosed-based settings.</p></div>
+<div class="feature"><div class="mark">👑</div><h3>Premium Tools</h3><p>Additional features with 15-day and 30-day Premium subscription options.</p></div>
+</div></div></section>
+<section id="screenshots" class="glow"><div class="wrap"><div class="section-head"><h2>Take a Look Inside the <span class="shine">Real Android App</span></h2><p>Actual PHONE edition screenshots showing the Studio dashboard, gallery video library, playback, audio and advanced controls.</p></div><div class="screenshots">
+<figure class="shot"><img loading="lazy" src="assets/virtual-camera-android-root-studio.webp" alt="Virtual Camera Android Root app Studio dashboard connected to LSPosed"/><figcaption>Studio</figcaption></figure>
+<figure class="shot"><img loading="lazy" src="assets/virtual-camera-android-root-media.webp" alt="Use MP4 video from Android gallery as virtual camera source"/><figcaption>Gallery video</figcaption></figure>
+<figure class="shot"><img loading="lazy" src="assets/virtual-camera-android-root-controls.webp" alt="Loop playback shuffle and audio controls for Android camera"/><figcaption>Playback</figcaption></figure>
+<figure class="shot"><img loading="lazy" src="assets/virtual-camera-android-root-audio.webp" alt="Original audio replacement microphone mute and rotation Android"/><figcaption>Audio &amp; rotation</figcaption></figure>
+<figure class="shot"><img loading="lazy" src="assets/virtual-camera-android-root-advanced.webp" alt="Choose target Android app and advanced virtual camera controls"/><figcaption>Target apps</figcaption></figure>
+</div></div></section>
+<section id="compatibility"><div class="wrap"><div class="section-head"><h2>500+ Apps Tested by the Developer</h2><p>Virtual Camera Android Root has been tested by its developer across more than 500 Android apps spanning live streaming, social media, communication, video meetings and other creator workflows. The app focuses on Android camera-source integration, not a single streaming platform.</p></div><div class="appgroups"><div class="appgroup"><h3>🌐 Social media &amp; livestreaming</h3><p>TikTok, YouTube, Instagram, Facebook, Twitch, Kick, VK Live, Shopee Live, BIGO LIVE, REDnote, X Live, Rumble, Nimo TV, Poppo Live, MICO, Tango Live, Likee, YouNow and more.</p></div><div class="appgroup"><h3>📞 Collaboration &amp; content</h3><p>WhatsApp, Telegram, LINE, WeChat, Discord, Zoom, Google Meet, Microsoft Teams, Webex, social video apps, community apps and creator ecosystems.</p></div></div><p class="mini" style="margin-top:22px">Developer testing covers different app workflows; availability of particular features can vary by platform version, Android device, required live-stream eligibility and third-party policies. Platform names do not imply sponsorship.</p></div></section>
+<section id="download" class="glow"><div class="wrap"><div class="downloads"><span class="eyebrow">Official GitHub APK downloads</span><h2 style="margin-top:13px">Download Virtual Camera Android Root</h2><p class="lead" style="margin:0">Select your phone's architecture. APK files are hosted exclusively as public assets on the <a href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases">official GitHub Releases page</a>.</p><div class="download-grid">
+<div class="build"><h3>ARM64-v8a <span style="color:var(--mint);font-size:.7rem">RECOMMENDED</span></h3><p>64-bit ARM. Most modern Android smartphones.</p><a class="button" id="apk-arm64" href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases">⬇ Download ARM64 APK</a></div>
+<div class="build"><h3>armeabi-v7a</h3><p>For supported Android devices with 32-bit ARM processors.</p><a class="button purple" id="apk-arm32" href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases">⬇ Download ARM32 APK</a></div>
+<div class="build"><h3>x86_64</h3><p>For compatible Android devices using x86_64 processors.</p><a class="button blue" id="apk-x64" href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases">⬇ Download x86_64 APK</a></div>
+</div><div role="status" aria-live="polite" id="download-status" class="status">Checking the newest published GitHub release…</div><p class="mini">The three download buttons discover the newest published release and use its actual APK filenames. When GitHub's public API is unavailable, the buttons safely open the releases page instead. No APK files are hosted on this website.</p><a class="button alt" href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases" target="_blank" rel="noopener noreferrer">Browse All Releases ↗</a></div></div></section>
+<section id="requirements"><div class="wrap"><div class="section-head"><h2>System Requirements</h2></div><div class="tablebox"><table class="specs"><tbody><tr><th>Android</th><td>Android 11 and newer</td></tr><tr><th>Android API Levels</th><td>30, 31, 33, 34, 35, 36, 37</td></tr><tr><th>Root</th><td>Required</td></tr><tr><th>LSPosed</th><td>Minimum LSPosed API 101</td></tr><tr><th>Device Type</th><td>Rooted physical Android phone (PHONE edition)</td></tr><tr><th>ABIs</th><td>arm64-v8a, armeabi-v7a, x86_64</td></tr></tbody></table></div></div></section>
+<section class="glow" id="setup"><div class="wrap"><div class="section-head"><h2>How to Live Stream Gallery Video on Android</h2><p>Set up your rooted smartphone in six straightforward steps.</p></div><div class="steps"><div class="step"><h3>Download APK</h3><p>Choose the ARM64, ARM32 or x86_64 APK matching your device.</p></div><div class="step"><h3>Enable LSPosed</h3><p>Configure Root and the module using LSPosed API 101+.</p></div><div class="step"><h3>Choose video</h3><p>Select your source MP4 file or other supported gallery video.</p></div><div class="step"><h3>Configure controls</h3><p>Adjust original video audio, looping, rotation and playback settings.</p></div><div class="step"><h3>Select target apps</h3><p>Assign the camera module to chosen Android applications.</p></div><div class="step"><h3>Start streaming</h3><p>Open the target camera workflow and test before going live.</p></div></div></div></section>
+<section class="faq"><div class="wrap"><div class="section-head"><h2>Frequently Asked Questions</h2></div><details><summary>How can I live stream a prerecorded video from my Android gallery?</summary><p>Install Virtual Camera Android Root on a rooted Android smartphone, choose a video source from your gallery, configure LSPosed and select your target app. The app provides the gallery video as virtual camera input in compatible workflows.</p></details><details><summary>Can I use a video with its original soundtrack?</summary><p>Yes. Source-audio routing, microphone control and audio replacement are features of Virtual Camera Android Root.</p></details><details><summary>Does it support TikTok LIVE, YouTube Live and Instagram Live?</summary><p>These services are included among the developer's tested target-app ecosystem. Exact behavior can vary by app build and broadcaster permissions.</p></details><details><summary>What Android and LSPosed versions do I need?</summary><p>Android 11+, Android API levels 30, 31, 33, 34, 35, 36 and 37, with Root and LSPosed API 101 or newer.</p></details><details><summary>Where is the safest official APK download?</summary><p>Use the GitHub Releases downloads linked on this website. Choose the APK whose architecture matches your Android device.</p></details></div></section>
+<section><div class="wrap"><div class="section-head"><h2>Bring Your Video Gallery to Life</h2><p>Take control of your prerecorded media, customize your Android camera feed and create more with one powerful rooted-phone virtual camera tool.</p></div><div class="cta" style="justify-content:flex-start"><a class="button" href="#download">⬇ Get Virtual Camera Android Root</a><a class="button alt" href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root">Explore the GitHub Project ↗</a></div><div class="poster" style="margin-top:30px"><img loading="lazy" src="assets/virtual-camera-android-root-feature-poster.jpg" width="1536" height="1024" alt="Virtual Camera Android Root featured promo poster with phone virtual camera controls, social platforms and three APK downloads"/></div></div></section>
+</main><footer><div class="wrap"><div><b>Virtual Camera Android Root</b><br/>Android virtual camera APK for rooted smartphones • LSPosed API 101+</div><div><a href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root">GitHub Repository</a> · <a href="https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases">APK Releases</a><br/>Independent application. Use prerecorded content in accordance with service rules.</div></div></footer>
+<script>
+(()=>{
+  'use strict';
+  const repo='hellowisnu12/Virtual-Camera-Android-Root';
+  const fallback='https://github.com/'+repo+'/releases';
+  const status=document.getElementById('download-status');
+  const buttons={arm64:document.getElementById('apk-arm64'),arm32:document.getElementById('apk-arm32'),x64:document.getElementById('apk-x64')};
+  const versions=v=>{const m=String(v||'').match(/v?(\d+)\.(\d+)\.(\d+)/i);return m?m.slice(1).map(Number):[0,0,0]};
+  const compare=(a,b)=>{const va=versions(a.tag_name),vb=versions(b.tag_name);for(let i=0;i<3;i++){if(va[i]!==vb[i])return vb[i]-va[i]}return String(b.published_at||'').localeCompare(String(a.published_at||''))};
+  const isAsset=(name,abi)=>{let s=name.toLowerCase();return s.endsWith('.apk') && (abi==='arm64'?s.includes('arm64-v8a'):abi==='arm32'?s.includes('armeabi-v7a'):s.includes('x86_64'))};
+  async function load(){
+    try{
+      const r=await fetch('https://api.github.com/repos/'+repo+'/releases?per_page=50',{headers:{'Accept':'application/vnd.github+json'}});
+      if(!r.ok)throw Error('GitHub API HTTP '+r.status);
+      const releases=(await r.json()).filter(x=>!x.draft && x.published_at);
+      releases.sort(compare);
+      const release=releases.find(x=>(x.assets||[]).some(a=>a.name?.toLowerCase().endsWith('.apk')));
+      if(!release)throw Error('No APK assets published');
+      let count=0;
+      for(const [abi,button] of Object.entries(buttons)){
+        let choices=(release.assets||[]).filter(a=>isAsset(a.name,abi));
+        choices.sort((a,b)=>Number((b.name||'').toLowerCase().includes('protected'))-Number((a.name||'').toLowerCase().includes('protected')));
+        const asset=choices[0];
+        button.href=asset?.browser_download_url||release.html_url||fallback;
+        if(asset){count++;button.title='Download '+asset.name+' from GitHub Releases'}
+        else button.title='Open GitHub Releases to choose a supported APK';
+      }
+      status.textContent='Latest published APK release: '+release.tag_name+' · '+count+'/3 architecture links available. Downloads are hosted by GitHub.';
+    }catch(err){
+      Object.values(buttons).forEach(b=>b.href=fallback);
+      status.textContent='Open GitHub Releases to select an APK. Live asset lookup is temporarily unavailable.';
+    }
+  }
+  load();
+})();
+</script>
+</body></html>
