@@ -1,0 +1,746 @@
+# Full Android App Directory — Virtual Camera Android Root
+
+**Android Virtual Camera APK for Live Streaming, Social Media, Video Calls & Creator Workflows**
+
+Use your Android gallery video as a virtual camera source, with source-video audio, microphone controls, looping and orientation options on rooted physical Android devices.
+
+**717 unique developer-submitted app names** are preserved below from the provided list (duplicates consolidated). **The developer reports testing 500+ applications.** This is an inventory of supplied names, not independent verification of each app identity, current availability, endorsement or feature matrix.
+
+**Requirements:** Android 11+; Android API 30, 31, 33, 34, 35, 36, 37; rooted physical Android phone; LSPosed minimum API 101.
+
+**[⬇ Download the Latest APK](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases)** · **[🌐 Website](https://hellowisnu12.github.io/Virtual-Camera-Android-Root/)** · **[🔍 Search this directory online](https://hellowisnu12.github.io/Virtual-Camera-Android-Root/supported-apps.html)**
+
+## Live Streaming, Broadcasting, Creator and Social Apps
+
+- 17LIVE
+- Accent Live
+- Actual Live
+- Aim Live
+- Air Live
+- Alliance Live
+- Alliance Stream
+- Allure Live
+- Alpha Live
+- Altitude Live
+- Amber Live
+- Angel Live
+- Apex Live
+- Apex Stream
+- Appeal Live
+- Arena Live
+- Asteroid Live
+- Astral Live
+- Astral Stream
+- Astro Live
+- Astro Stream
+- Audio Live
+- Aura Live
+- Aura Stream
+- Authentic Live
+- Author Live
+- Avenue Live
+- Axis Live
+- Band Live
+- BareLive
+- Bay Live
+- Beacon Live
+- Beam Live
+- Beam Stream
+- Beat Live
+- Beat Stream
+- Beta Live
+- Beyond Live
+- BIGO LIVE
+- BIGO LIVE Lite
+- Bird Live
+- Blaze Live
+- Blaze Stream
+- Bliss Live
+- Blued
+- Bongo Live
+- Boom Live
+- Breeze Live
+- Brilliance Live
+- Broadcast Live
+- Bronze Live
+- Builder Live
+- Bunny Live
+- Burn Live
+- Burst Live
+- Burst Stream
+- Buzz Live
+- BuzzCast
+- Cadence Live
+- Candle Live
+- Candy Live
+- Canvas Live
+- Captain Live
+- Carnival Live
+- Cast Live
+- Celebration Live
+- Celebrity Live
+- Celestial Live
+- Celestial Stream
+- Center Live
+- Chamet
+- Chamet Lite
+- Champion Live
+- Champion Stream
+- Channel Live
+- Charm Live
+- Charm Stream
+- Chat Stream
+- Cheer Live
+- Cherry Live
+- Chic Live
+- Chief Live
+- Choice Live
+- Circle Live
+- City Live
+- Clapper
+- Cloud Live
+- Club Live
+- Clubroom Live
+- Color Live
+- Colossus Live
+- Comet Live
+- Commander Live
+- Community Live
+- Connect Live
+- Conqueror Live
+- Converse Live
+- Core Live
+- Cosmic Live
+- Cosmos Live
+- Cosmos Stream
+- Cove Live
+- Craft Live
+- Craze Live
+- Creator Live
+- Crest Live
+- Crest Stream
+- Crew Live
+- Crown Live
+- Crowned Live
+- Crystal Live
+- Crystal Stream
+- Culture Live
+- Cute Live
+- Dawn Live
+- Delight Live
+- Deluxe Live
+- Design Live
+- Desire Live
+- Dialogue Live
+- Diamond Live
+- Diamond Stream
+- Director Live
+- Diva Live
+- Domain Live
+- Door Live
+- Dragon Live
+- Dream Live
+- Dream Stream
+- Dreamer Live
+- Dual Live
+- Duo Live
+- Dusk Live
+- Dynamic Live
+- Eagle Live
+- Echo Live
+- Echo Stream
+- Echo Zone
+- Eclipse Live
+- Elegance Live
+- EleLive
+- Elevate Live
+- Elite Live
+- Ember Live
+- Ember Stream
+- Emerald Live
+- Empire Live
+- Empyrean Live
+- Enchanted Live
+- Enchanter Live
+- Energy Live
+- Epic Live
+- Epic Stream
+- Essence Live
+- Eternity Live
+- Ether Live
+- Ether Stream
+- Exa Live
+- Expedition Live
+- Expert Live
+- Extreme Live
+- Fable Live
+- Facebook Live
+- Fact Live
+- Falcon Live
+- Fame Live
+- Fancy Live
+- Fantasy Live
+- Fantasy Stream
+- Fascination Live
+- Federation Live
+- Festival Live
+- Fever Live
+- Fiesta Live
+- Fire Stream
+- First Live
+- Flame Live
+- Flame Stream
+- Flare Live
+- Flare Stream
+- Flash Live
+- Flash Stream
+- Flow Live
+- Fly Live
+- Fly Stream
+- Focus Live
+- Focus Stream
+- Force Live
+- Forum Live
+- Forum Stream
+- Frame Live
+- Frequency Live
+- Fun Live
+- Fusion Live
+- Gala Live
+- Galaxy Live
+- Galaxy Stream
+- Galaxy Zone
+- Garnet Live
+- Gate Live
+- Gathering Live
+- Gem Live
+- Gemstone Live
+- Genuine Live
+- Ghost Live
+- Ghost Stream
+- Giant Live
+- Giga Live
+- Glamour Live
+- Glass Live
+- Glimpse Live
+- Global Live
+- Glory Live
+- Glow Live
+- Glow Stream
+- Goal Live
+- Gold Live
+- Gold Stream
+- GOSH LIVE
+- Grace Live
+- Grand Live
+- Griffin Live
+- Group Stream
+- Guild Live
+- Guild Stream
+- Guru Live
+- Hakuna
+- Hakuna Lite
+- Happy Live
+- Harbor Live
+- Harmony Live
+- Harmony Stream
+- Haven Live
+- Heart Live
+- Heartbeat Live
+- Heat Live
+- Heritage Live
+- Hero Live
+- Hero Stream
+- Hi5 Live
+- Hidden Live
+- Hidden Stream
+- Hideout Live
+- High Live
+- Honey Live
+- Honor Live
+- Horizon Live
+- Hot51
+- Hub Live
+- Hue Live
+- Hype Live
+- Icon Live
+- Ideal Live
+- Idol Live
+- Illumination Live
+- Illusion Live
+- Impact Live
+- Imperial Live
+- Inferno Live
+- Infinite Live
+- Instagram Live
+- Island Live
+- Jade Live
+- Jewel Live
+- Journey Live
+- Joy Live
+- Joyful Live
+- Jubilee Live
+- Kara Live
+- Kick
+- King Live
+- Kingdom Live
+- Kitty Live
+- Knight Live
+- Knight Stream
+- Kumu
+- Lagoon Live
+- Lake Live
+- Lantern Live
+- Laugh Live
+- Leader Live
+- Legacy Live
+- Legend Live
+- Legend Stream
+- Light Live
+- Lightning Live
+- Likee
+- Link Live
+- LiveMe
+- LiveMe Pro
+- Look Live
+- Lounge Live
+- Love Live
+- Luminous Live
+- Lunar Live
+- Lunar Stream
+- Luster Live
+- Luxe Live
+- Magic Live
+- Magic Stream
+- Majestic Live
+- Maker Live
+- Mammoth Live
+- Mango Live
+- Mania Live
+- Marvel Live
+- Master Live
+- Matok Live
+- Meeting Live
+- Mega Live
+- Melody Live
+- Meme Live
+- Meteor Live
+- Mico
+- Mico Lite
+- Midnight Live
+- MIKA Live
+- Miracle Live
+- Miracle Stream
+- Mirage Live
+- Mirror Live
+- Mixcloud Live
+- Moon Live
+- Moonlight Live
+- Mystery Live
+- Mystic Live
+- Myth Live
+- Myth Stream
+- Nana Live
+- Nation Live
+- Native Live
+- Network Live
+- Nevix
+- Night Live
+- Niki Live
+- Nimo TV
+- Noble Live
+- Nonolive
+- Notice Live
+- Nova Live
+- Nozy
+- Oasis Live
+- Observe Live
+- Ocean Live
+- Ocean Stream
+- Omega Live
+- Omni Live
+- One Live
+- Onyx Live
+- Opal Live
+- Orbit Live
+- Overlord Live
+- Pair Live
+- Paladin Live
+- Palette Live
+- Paramount Live
+- Parlor Live
+- Party Live
+- Party Stream
+- Passage Live
+- Passion Live
+- Passion Stream
+- Path Live
+- Peak Live
+- Peak Stream
+- Pearl Live
+- Pearl Stream
+- Peep Live
+- Perfect Live
+- Peta Live
+- Phantom Live
+- Phantom Stream
+- Phoenix Live
+- Picture Live
+- Pinnacle Live
+- Pioneer Live
+- Pivot Live
+- Planet Live
+- Planet Stream
+- Platinum Live
+- Plaza Live
+- Pop Live
+- Poppo Live
+- Poppo Live Lite
+- Popular Live
+- Port Live
+- Portal Live
+- Power Live
+- Premium Live
+- Prestige Live
+- Pride Live
+- Prime Live
+- Prime Stream
+- Prince Live
+- Princess Live
+- Prism Live
+- Producer Live
+- Pulse Live
+- Pulse Stream
+- Pure Live
+- Quartz Live
+- Queen Live
+- Quest Live
+- Qwick Live
+- Radiance Live
+- Radiant Live
+- Rainbow Live
+- Ray Live
+- Ray Stream
+- Real Live
+- Realm Live
+- Realm Stream
+- Recz
+- rednote
+- Reflex Live
+- Regal Live
+- Resonance Live
+- Resonate Live
+- Retreat Live
+- Reunion Live
+- Rhythm Live
+- Rhythm Stream
+- River Live
+- Rose Live
+- Route Live
+- Royal Live
+- Ruby Live
+- Ruby Stream
+- Rumble
+- Rush Live
+- Safari Live
+- Saga Live
+- Sahi Live
+- Salon Live
+- Sanctuary Live
+- Sapphire Live
+- Scene Live
+- Sea Live
+- Secret Live
+- Secret Stream
+- Select Live
+- Sensei Live
+- Shade Live
+- Shadow Live
+- Shadow Stream
+- Sheen Live
+- Shelter Live
+- Shine Live
+- Shine Stream
+- Shock Live
+- Shopee Live
+- Sight Live
+- Signal Live
+- Silver Live
+- Silver Stream
+- Sky Live
+- Sky Stream
+- Smile Live
+- Soar Live
+- Social Live
+- Society Live
+- Society Stream
+- Solar Live
+- Solar Stream
+- Solo Live
+- Solo Stream
+- Sonic Live
+- Soul Live
+- Soul Stream
+- Sound Live
+- Soundwave Live
+- Sovereign Live
+- Space Live
+- Spark Live
+- Spark Stream
+- Sparkle Live
+- Speak Live
+- Specter Live
+- Spectrum Live
+- Spell Live
+- Spellbound Live
+- Sphere Live
+- Spirit Live
+- Spirit Stream
+- Splendid Live
+- Spot Live
+- Spotlight Live
+- Squad Live
+- Square Live
+- Stadium Live
+- Stage Live
+- Star Live
+- Star Stream
+- Starlight Live
+- StarMaker Live
+- Station Live
+- Stellar Live
+- Stellar Stream
+- Storm Live
+- StreamKar
+- StreamKar Lite
+- Street Live
+- Style Live
+- Sugar Live
+- SugarLive Lite
+- Summit Live
+- Summit Stream
+- Sun Live
+- Sunrise Live
+- Sunset Live
+- Superb Live
+- SuperLive
+- SuperLive Lite
+- Superstar Live
+- Supreme Live
+- Sweet Live
+- Symphony Live
+- TakaLite
+- Talk Live
+- Tango
+- Tango Lite
+- Tango Live
+- Target Live
+- Team Live
+- Tempo Live
+- Tera Live
+- Thermal Live
+- Thrill Live
+- Thunder Live
+- Ti.Live
+- Ti.Live Lite
+- Tide Live
+- Tiki Live
+- TikTok LIVE
+- Tint Live
+- Titan Live
+- Titanium Live
+- Tone Live
+- Tone Stream
+- Top Live
+- Topaz Live
+- Torch Live
+- Tour Live
+- Town Live
+- Track Live
+- Tradition Live
+- Trail Live
+- Transmission Live
+- Treasure Live
+- Trek Live
+- Trend Live
+- Trendsetter Live
+- Trio Live
+- Triumph Live
+- Triumph Stream
+- True Live
+- Truth Live
+- Tuning Live
+- Twilight Live
+- Twin Live
+- Twitcast
+- Twitch
+- Ultimate Live
+- Ultra Live
+- Union Live
+- Union Stream
+- Unity Stream
+- Universal Live
+- Universe Live
+- Uplive
+- Uplive Lite
+- Utopian Live
+- Vanguard Live
+- Vault Live
+- Venture Live
+- Verity Live
+- Vero Live
+- Vertex Live
+- Vibe Live
+- Vibie Live
+- Victor Live
+- Victory Live
+- Victory Stream
+- View Live
+- Village Live
+- VIP Live
+- VIP Stream
+- Viral Live
+- Vision Live
+- Vision Stream
+- Visionary Live
+- Vivid Live
+- VK Live
+- Voice Stream
+- Voyage Live
+- Vshow Live
+- Warrior Live
+- Watch Stream
+- Wave Live
+- Wave Stream
+- Waveform Live
+- Way Live
+- WeJoy Live
+- WeSing Live
+- whatsapp
+- Wind Live
+- Window Live
+- Wing Live
+- Winner Live
+- Witness Live
+- Wonder Live
+- Wonder Stream
+- Woo Live
+- World Live
+- World Stream
+- X Live
+- Yome Live
+- Yotta Live
+- YouNow
+- YouTube Live
+- Zenith Live
+- Zenith Stream
+- Zeta Live
+- Zone Live
+
+## Dating, Social Discovery and Video Chat Apps
+
+Names appearing in the first section are not repeated below.
+
+- Amino
+- AsianDating
+- Ayonikah
+- Azar
+- Azar Lite
+- Badoo
+- BlackPeopleMeet
+- Boo
+- Bumble
+- Bumble Lite
+- Bumpy
+- Chappy
+- Chatous
+- Christian Mingle
+- Clover
+- Coffee Meets Bagel
+- Connected2.me
+- DateMyAge
+- Dating.com
+- EliteSingles
+- FaceFlow
+- Falo
+- Feeld
+- Foursquare
+- Frim
+- Funchat
+- Grindr
+- Happn
+- Hawaya
+- Her
+- Hinge
+- Hiya
+- Holla
+- Holla Lite
+- Hoop
+- Hornet
+- HUD
+- Inner Circle
+- InternationalCupid
+- Jack'd
+- Janda Serius
+- Jaumo
+- JSwipe
+- Kenalan
+- Kippo
+- Lamour
+- LatinoPeopleMeet
+- Litmatch
+- LOVOO
+- Mamba
+- Match
+- MatureDating
+- MeetMe
+- Mirc
+- Muzmatch
+- OkCupid
+- Omega
+- OmeTV
+- Once
+- Plenty of Fish
+- Pure
+- Raya
+- Romeo
+- S'More
+- Scruff
+- SeniorPeopleMeet
+- SilverSingles
+- SingleDad
+- SingleMom
+- SingleParent
+- Skout
+- Snack
+- Sugo
+- SweetMeet
+- Taaruf ID
+- Tagged
+- Taimi
+- Tantan
+- Tantan Lite
+- Tinder
+- Tinder Lite
+- Tleemp
+- TrueLove
+- Tumile
+- Wahada
+- Wakie
+- Wedlock
+- WeLive
+- Whisper
+- YoCutie
+- Yubo
+- Yupi
+- Zoosk
+
+## How to install and use
+
+1. Download the APK for your device architecture (`arm64-v8a`, `armeabi-v7a` or `x86_64`) from GitHub Releases.
+2. Enable root and LSPosed (minimum LSPosed API 101).
+3. Choose a compatible gallery video as your virtual camera input.
+4. Configure original video audio, microphone routing, loop playback and orientation.
+5. Select your target Android app and test its camera/video feature.
+
+Third-party app versions, streaming eligibility and camera/audio APIs can affect individual workflows. App names are descriptive and do not imply an official partnership.
