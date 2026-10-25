@@ -60,6 +60,16 @@ These are screenshots of the Virtual Camera Android Root PHONE interface: Studio
   <img src="assets/virtual-camera-android-root-advanced.webp" width="170" alt="Choose target apps and advanced camera options" />
 </div>
 
+### 🔎 Explore the Full Live Streaming & Video Chat App Directory
+
+The developer reports testing Virtual Camera Android Root with **500+ Android applications**. The expanded developer-supplied directory contains **717 distinct names**, spanning live streaming, social media, creator platforms, video chat, and dating/social discovery. Duplicate entries were consolidated while preserving the original app names.
+
+**[📚 FULL APP DIRECTORY ON GITHUB](SUPPORTED_APPS.md)** · **[🔍 SEARCH ALL APPS ON THE WEBSITE](https://hellowisnu12.github.io/Virtual-Camera-Android-Root/supported-apps.html)** · **[⬇️ DOWNLOAD THE ANDROID APK](https://github.com/hellowisnu12/Virtual-Camera-Android-Root/releases)**
+
+Popular entries include **TikTok LIVE, YouTube Live, Instagram Live, Facebook Live, Twitch, WhatsApp, Shopee Live, BIGO LIVE, VK Live, REDnote, Poppo Live, Tango Live, LiveMe, Chamet, Yubo, Tinder, Bumble and OmeTV**.
+
+> App names reflect the developer-supplied list. An appearance in the directory does not independently establish current store availability, platform endorsement, or identical capabilities in every version of every app.
+
 ## 🌍 500+ App Testing Coverage: Streaming, Social Media and Video Calls
 
 **One Android virtual camera, hundreds of potential workflows.** According to the developer's testing, the app has been exercised with **500+ Android applications**, including well-known platforms and creator tools. Representative ecosystems include:
